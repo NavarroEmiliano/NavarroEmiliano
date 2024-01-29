@@ -65,6 +65,7 @@
 ###
 
 <br clear="both">
+<h3>Watch snake eating my github contributions</h3>
 
 <img src="https://raw.githubusercontent.com/navarroemiliano/navarroemiliano/output/snake.svg" alt="Snake animation" />
 
