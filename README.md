@@ -46,6 +46,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://testing-library.com/img/octopus-64x64.png" height="30" alt="testing library logo"  />
+  <img width="12" />
+  <img src="https://vitest.dev/logo.svg" height="30" alt="vitest logo"  />
 </div>
 
 ###
