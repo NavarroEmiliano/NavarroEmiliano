@@ -41,4 +41,6 @@ Technologies that I work with
 </div>
  
 
- 
+
+
+ [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,next,jest,redux,tailwind,sass,nodejs,express,mongodb)](https://skillicons.dev)
