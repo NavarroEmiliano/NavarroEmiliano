@@ -7,4 +7,4 @@ Technologies that I work with
 
 
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jest,redux,tailwind,nodejs,express,mongodb,postgresql,sequelize,jest,vscode,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jest,redux,tailwind,nodejs,express,mongodb,postgresql,sequelize,jest,vscode,graphql)](https://skillicons.dev)
