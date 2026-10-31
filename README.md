@@ -6,7 +6,7 @@ Full Stack Developer based in Buenos Aires, Argentina. Open to remote opportunit
 
 ## Professional experience
 
-At **Gala Solutions** (March 2025 - September 2026), I helped recover an assisted-sales platform and built warehouse management and automotive CRM applications.
+At **Gala Solutions** (March 2024 - September 2026), I helped recover an assisted-sales platform and built warehouse management and automotive CRM applications.
 [View private project case studies](https://emiliano-navarro.vercel.app/#projects).
 
 ## Technologies
